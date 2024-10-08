@@ -6,12 +6,11 @@ This lab is in the third module (Module 3, Lab 2) of the Meta Coursera course 'V
 The original link in the Coursera course that is not working: [class repo](https://github.com/Meta-Front-End-Developer-PC/m3l2_forking_lab)
 
 #### This course is part of the following professional certificates:
-Meta Front-End Developer Professional Certificate
-Meta Back-End Developer Professional Certificate
-Meta Database Engineer Professional Certificate
-Meta iOS Developer Professional Certificate
-Meta Android Developer Professional Certificate
+- Meta Front-End Developer Professional Certificate
+- Meta Back-End Developer Professional Certificate
+- Meta Database Engineer Professional Certificate
+- Meta iOS Developer Professional Certificate
+- Meta Android Developer Professional Certificate
 
 #### Keywords:
-Meta-Front-End-Developer-PC
-m3l2_forking_lab
+Meta-Front-End-Developer-PC, m3l2_forking_lab
